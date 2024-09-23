@@ -6,7 +6,7 @@ Welcome to my collection of mini Python projects! This repository showcases vari
 
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-   - [Project 1: Project Name](#project-1-project-name)
+   - [Project 1: Magic Square Solver](#project-1-magic-square-solver)
 3. [Installation](#installation)
 4. [License](#license)
 
@@ -17,6 +17,7 @@ This repository contains a variety of mini projects built in Python. Each projec
 ## Projects
 
 ### Project 1: Magic Square Solver
+
 - **Description**: Solves a user-defined Magic Square Table.
 - **Features**: Magic Square Solver Algorithm.
 
@@ -32,7 +33,6 @@ To install the necessary dependencies for each project, follow these steps:
    ```bash
    cd your-repository/project-folder
    ```
-   
 
 ## License
 

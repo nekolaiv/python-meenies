@@ -6,7 +6,8 @@ Welcome to my collection of mini Python projects! This repository showcases vari
 
 1. [Introduction](#introduction)
 2. [Projects](#projects)
-   - [Project 1: Magic Square Solver](#project-1-magic-square-solver)
+   - [Personal Ideas](#personal-ideas)
+     - [Project 1: Magic Square Solver](#project-1-magic-square-solver)
 3. [Installation](#installation)
 4. [License](#license)
 
@@ -15,6 +16,8 @@ Welcome to my collection of mini Python projects! This repository showcases vari
 This repository contains a variety of mini projects built in Python. Each project aims to solve a specific problem or demonstrate a particular concept. Feel free to explore and use any of the code!
 
 ## Projects
+
+## Personal Ideas
 
 ### Project 1: Magic Square Solver
 

@@ -17,7 +17,7 @@ This repository contains a variety of mini projects built in Python. Each projec
 
 ## Projects
 
-### Personal Ideas
+### PERSONAL IDEAS
 
 ### Project 1: Magic Square Solver
 

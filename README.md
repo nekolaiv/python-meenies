@@ -21,8 +21,32 @@ This repository contains a variety of mini projects built in Python. Each projec
 
 ### Project 1: Magic Square Solver
 
-- **Description**: Solves a user-defined Magic Square Table.
-- **Features**: Magic Square Solver Algorithm.
+- **Description**: A Python program that automatically generates and solves a magic square based on the user-defined size, ensuring that all rows, columns, and diagonals sum to the same value.
+- **Features**: Dynamic size selection, step-by-step visualization of the solving process, input validation, and support for both odd and even-sized squares.
+
+### SCIENTIFIC COMPUTING
+
+Here are the descriptions and features for your projects:
+
+### Project 1: Caesar Cipher
+
+- **Description**: A Python program that implements the Caesar cipher for encrypting and decrypting text using a simple shift mechanism.
+- **Features**: User-friendly interface, customizable shift value, encryption and decryption modes, and support for both uppercase and lowercase letters.
+
+### Project 2: Vigenere Cipher
+
+- **Description**: A Python tool that utilizes the Vigenère cipher for encrypting text using a keyword for enhanced security over the Caesar cipher.
+- **Features**: Keyword-based encryption, decryption capabilities, error handling for invalid inputs, and a clear explanation of the process.
+
+### Project 3: Luhn Algorithm
+
+- **Description**: An implementation of the Luhn algorithm to validate credit card numbers using a checksum formula.
+- **Features**: Input validation, detailed output for each step of the algorithm, and the ability to check multiple card numbers at once.
+
+### Project 4: Expense Tracker
+
+- **Description**: A Python application designed to help users track their expenses, categorize spending, and visualize financial trends.
+- **Features**: User authentication, customizable categories, monthly reporting, data visualization, and export options for detailed analysis.
 
 ## Installation
 

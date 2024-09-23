@@ -17,14 +17,14 @@ This repository contains a variety of mini projects built in Python. Each projec
 
 ## Projects
 
-### PERSONAL IDEAS
+### <u>PERSONAL IDEAS</u>
 
 ### Project 1: Magic Square Solver
 
 - **Description**: A Python program that automatically generates and solves a magic square based on the user-defined size, ensuring that all rows, columns, and diagonals sum to the same value.
 - **Features**: Dynamic size selection, step-by-step visualization of the solving process, input validation, and support for both odd and even-sized squares.
 
-### SCIENTIFIC COMPUTING
+### <u>SCIENTIFIC COMPUTING</u>
 
 Here are the descriptions and features for your projects:
 

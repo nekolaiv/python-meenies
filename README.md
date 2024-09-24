@@ -9,6 +9,10 @@ Welcome to my collection of mini Python projects! This repository showcases vari
    - [Personal Ideas](#personal-ideas)
      - [Project 1: Magic Square Solver](#project-1-magic-square-solver)
    - [Scientific Computing](#-scientific-computing)
+     - [Project 1: Caesar Cipher](#project-1-caesar-cipher)
+     - [Project 2: Vigenere Cipher](#project-2-vigenere-cipher)
+     - [Project 3: Luhn Algorithm](#project-3-luhn-algorithm)
+     - [Project 4: Expense Tracker](#project-4-expense-tracker)
 3. [Installation](#installation)
 4. [License](#license)
 

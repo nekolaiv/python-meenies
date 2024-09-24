@@ -8,6 +8,7 @@ Welcome to my collection of mini Python projects! This repository showcases vari
 2. [Projects](#projects)
    - [Personal Ideas](#personal-ideas)
      - [Project 1: Magic Square Solver](#project-1-magic-square-solver)
+   - [Scientific Computing](#-scientific-computing)
 3. [Installation](#installation)
 4. [License](#license)
 

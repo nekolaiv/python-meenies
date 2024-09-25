@@ -1,4 +1,4 @@
-# Python Minies
+# Python CLI-Based Mini Projects
 
 Welcome to my collection of mini Python projects! This repository showcases various projects I've created to enhance my programming skills and explore different concepts in Python.
 

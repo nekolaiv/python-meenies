@@ -2,24 +2,27 @@
 
 Welcome to my collection of mini Python projects! This repository showcases various projects I've created to enhance my programming skills and explore different concepts in Python.
 
-## Table of Contents
+## TABLE OF CONTENTS
 
 1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [License](#license)
+2. [Projects](#projects)
+3. [Installation](#installation)
+4. [License](#license)
 
-## Introduction
+## INTRODUCTION
 
 This repository contains a variety of mini projects built in Python. Each project aims to solve a specific problem or demonstrate a particular concept. Feel free to explore and use any of the code!
 
-## Projects
+## PROJECTS
 
-### === PERSONAL IDEAS
+<details>
+<summary><h2>Personal Ideas<h2></summary>
 
-### Project 1: Magic Square Solver
-
+<h3>Project 1: Magic Square Solver</h3>
 - **Description**: A Python program that automatically generates and solves a magic square based on the user-defined size, ensuring that all rows, columns, and diagonals sum to the same value.
 - **Features**: Dynamic size selection, step-by-step visualization of the solving process, input validation, and support for both odd and even-sized squares.
+
+</details>
 
 <details>
 <summary><h2>Scientific Computing<h2></summary>
@@ -42,7 +45,7 @@ This repository contains a variety of mini projects built in Python. Each projec
 
 </details>
 
-## Installation
+## INSTALLATION
 
 To install the necessary dependencies for each project, follow these steps:
 
@@ -55,11 +58,11 @@ To install the necessary dependencies for each project, follow these steps:
    cd your-repository/project-folder
    ```
 
-## License
+## LICENSE
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
+## CONTACT
 
 Feel free to reach out if you have any questions or feedback!
 Repository will continue to update...

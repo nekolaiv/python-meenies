@@ -5,11 +5,8 @@ Welcome to my collection of mini Python projects! This repository showcases vari
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Projects](#projects)
-   - [Personal Ideas](#personal-ideas)
-   - [Scientific Computing](#-scientific-computing)
-3. [Installation](#installation)
-4. [License](#license)
+2. [Installation](#installation)
+3. [License](#license)
 
 ## Introduction
 
@@ -24,7 +21,8 @@ This repository contains a variety of mini projects built in Python. Each projec
 - **Description**: A Python program that automatically generates and solves a magic square based on the user-defined size, ensuring that all rows, columns, and diagonals sum to the same value.
 - **Features**: Dynamic size selection, step-by-step visualization of the solving process, input validation, and support for both odd and even-sized squares.
 
-### === SCIENTIFIC COMPUTING
+<details>
+<summary>Scientific Computing</summary>
 
 ### Project 1: Caesar Cipher
 
@@ -45,6 +43,8 @@ This repository contains a variety of mini projects built in Python. Each projec
 
 - **Description**: A Python application designed to help users track their expenses, categorize spending, and visualize financial trends.
 - **Features**: User authentication, customizable categories, monthly reporting, data visualization, and export options for detailed analysis.
+
+</details>
 
 ## Installation
 

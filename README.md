@@ -22,6 +22,10 @@ This repository contains a variety of mini projects built in Python. Each projec
 - <strong>Description</strong>: A Python program that automatically generates and solves a magic square based on the user-defined size, ensuring that all rows, columns, and diagonals sum to the same value. <br>
 - <strong>Features</strong>: Dynamic size selection, step-by-step visualization of the solving process, input validation, and support for both odd and even-sized squares.
 
+<h3>Project 2: block-fall (Underdevelopment)</h3>
+- <strong>Description</strong>: A command-line interface game inspired by Tetris, where players manipulate falling blocks to create complete lines and prevent the screen from filling up. <br>
+- <strong>Features</strong>: Real-time block movement, multiple levels of difficulty, scoring system, and support for various block shapes and colors.
+
 </details>
 
 <details>

@@ -19,7 +19,7 @@ This repository contains a variety of mini projects built in Python. Each projec
 <summary><h2>Personal Ideas<h2></summary>
 
 <h3>Project 1: Magic Square Solver</h3>
-- <strong>Description</strong>: A Python program that automatically generates and solves a magic square based on the user-defined size, ensuring that all rows, columns, and diagonals sum to the same value.
+- <strong>Description</strong>: A Python program that automatically generates and solves a magic square based on the user-defined size, ensuring that all rows, columns, and diagonals sum to the same value. <br>
 - <strong>Features</strong>: Dynamic size selection, step-by-step visualization of the solving process, input validation, and support for both odd and even-sized squares.
 
 </details>
@@ -28,19 +28,19 @@ This repository contains a variety of mini projects built in Python. Each projec
 <summary><h2>Scientific Computing<h2></summary>
 
 <h3>Project 1: Caesar Cipher</h3>
-- <strong>Description</strong>: A Python program that implements the Caesar cipher for encrypting and decrypting text using a simple shift mechanism.
+- <strong>Description</strong>: A Python program that implements the Caesar cipher for encrypting and decrypting text using a simple shift mechanism. <br>
 - <strong>Features</strong>: User-friendly interface, customizable shift value, encryption and decryption modes, and support for both uppercase and lowercase letters.
 
 <h3>Project 2: Vigenere Cipher</h3>
-- <strong>Description</strong>: A Python tool that utilizes the Vigenère cipher for encrypting text using a keyword for enhanced security over the Caesar cipher.
+- <strong>Description</strong>: A Python tool that utilizes the Vigenère cipher for encrypting text using a keyword for enhanced security over the Caesar cipher. <br>
 - <strong>Features</strong>: Keyword-based encryption, decryption capabilities, error handling for invalid inputs, and a clear explanation of the process.
 
 <h3>Project 3: Luhn Algorithm</h3>
-- <strong>Description</strong>: An implementation of the Luhn algorithm to validate credit card numbers using a checksum formula.
+- <strong>Description</strong>: An implementation of the Luhn algorithm to validate credit card numbers using a checksum formula. <br>
 - <strong>Features</strong>: Input validation, detailed output for each step of the algorithm, and the ability to check multiple card numbers at once.
 
 <h3>Project 4: Expense Tracker</h3>
-- <strong>Description</strong>: A Python application designed to help users track their expenses, categorize spending, and visualize financial trends.
+- <strong>Description</strong>: A Python application designed to help users track their expenses, categorize spending, and visualize financial trends. <br>
 - <strong>Features</strong>: User authentication, customizable categories, monthly reporting, data visualization, and export options for detailed analysis.
 
 </details>

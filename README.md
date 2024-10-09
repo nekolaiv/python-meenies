@@ -22,7 +22,7 @@ This repository contains a variety of mini projects built in Python. Each projec
 - **Features**: Dynamic size selection, step-by-step visualization of the solving process, input validation, and support for both odd and even-sized squares.
 
 <details>
-<summary><h1>Scientific Computing<h1></summary>
+<summary><h3>Scientific Computing<h3></summary>
 
 ### Project 1: Caesar Cipher
 

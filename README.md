@@ -22,25 +22,21 @@ This repository contains a variety of mini projects built in Python. Each projec
 - **Features**: Dynamic size selection, step-by-step visualization of the solving process, input validation, and support for both odd and even-sized squares.
 
 <details>
-<summary><h3>Scientific Computing<h3></summary>
+<summary><h2>Scientific Computing<h2></summary>
 
-### Project 1: Caesar Cipher
-
+<h3>Project 1: Caesar Cipher</h3>
 - **Description**: A Python program that implements the Caesar cipher for encrypting and decrypting text using a simple shift mechanism.
 - **Features**: User-friendly interface, customizable shift value, encryption and decryption modes, and support for both uppercase and lowercase letters.
 
-### Project 2: Vigenere Cipher
-
+<h3>Project 2: Vigenere Cipher</h3>
 - **Description**: A Python tool that utilizes the Vigenère cipher for encrypting text using a keyword for enhanced security over the Caesar cipher.
 - **Features**: Keyword-based encryption, decryption capabilities, error handling for invalid inputs, and a clear explanation of the process.
 
-### Project 3: Luhn Algorithm
-
+<h3>Project 3: Luhn Algorithm</h3>
 - **Description**: An implementation of the Luhn algorithm to validate credit card numbers using a checksum formula.
 - **Features**: Input validation, detailed output for each step of the algorithm, and the ability to check multiple card numbers at once.
 
-### Project 4: Expense Tracker
-
+<h3>Project 4: Expense Tracker</h3>
 - **Description**: A Python application designed to help users track their expenses, categorize spending, and visualize financial trends.
 - **Features**: User authentication, customizable categories, monthly reporting, data visualization, and export options for detailed analysis.
 
